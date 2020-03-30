@@ -9,7 +9,7 @@ Pre-processes the Shakespearean sonnet datasets for training HMMs and RNNs, incl
 ### 2-HMM-Train-Poems.ipynb
 Trains a naive HMM and an advanced HMM to write Shakespearean sonnets.
 
-HMM implementation, including Viberti alogorithm, is in *HMM.py*, and HMM helper functions for some visualization and interpretation are in *HMM_helper.py*.
+HMM implementation, including Viterbi alogorithm, is in *HMM.py*, and HMM helper functions for some visualization and interpretation are in *HMM_helper.py*.
 
 ### 3-RNN-William-Wanna-Shake-Pear.ipynb
 Trains a naive RNN and an advanced RNN using *keras* to write Shakespearean sonnets. (Trained on Google Colab GPUs.)
