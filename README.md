@@ -1,5 +1,5 @@
-# william-wanna-shake-pear
- This repository is for **Caltech CS155: Machine Learning and Data Mining** (2020 Winter) miniproject3. 
+# William-wanna-shake-pear
+ This repo is for **Caltech CS155: Machine Learning and Data Mining** (2020 Winter) miniproject3. 
  
  Included are codes to build HMMs and RNNs for generating sonnets of Shakespeare's writing style by training on all 154 Shakespeare's sonnets (and Amoretti by Edmund Spenser for 2 advanced models).
 
